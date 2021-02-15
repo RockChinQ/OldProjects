@@ -1,0 +1,84 @@
+[boot.Main.main]Launch.ID:1584676239591
+[data.Config.reload]Reload over.
+[guiMgr.MainWd.<init>]Loading window...
+[guiMgr.panels.bgPanel.<init>]Loading panel...
+[guiMgr.panels.bgPanel.<init>]Loading trackOperPanel...
+[guiMgr.panels.bgPanel.<init>]Loading toolPanel...
+[guiMgr.panels.bgPanel.<init>]Loading infoBar...
+[guiMgr.panels.bgPanel.<init>]Loading editing panel...
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test0
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test3
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test4
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test5
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2 at 3
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2__
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2_ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2___
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2__ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2____
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2___ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_____
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2____ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2______
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2_____ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_______
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2______ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2_______ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2__________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2_________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2___________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2__________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2____________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2___________ at 2
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2____________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2___________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_____________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2____________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2______________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2_____________ at 1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2_______________
+[guiMgr.panels.EditingPnl.cutClipApart]Cut test2______________ at 1
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1000
+[data.Config.set]Set mwd.height=648
+[data.Config.set]Set mwd.x=401
+[data.Config.set]Set mwd.y=393
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set trackOper.x=485
+[data.Config.set]Set trackOper.y=148
+[data.Config.set]Set toolPnl.x=195
+[data.Config.set]Set toolPnl.y=101
+[data.Config.set]Set infoBar.color=0.25
+[data.Config.set]Set trackLocationAdd=-75
+[data.Config.set]Set eleHeight=50
+[guiMgr.MainWd.windowClosing]Closing...

@@ -1,0 +1,4 @@
+grade=High School
+name=集合定理0
+condition=<集合0>元素数量等于0;
+conclusion=<集合0>是空集

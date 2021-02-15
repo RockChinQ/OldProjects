@@ -1,0 +1,214 @@
+[boot.Main.main]Launch.ID:1586683152831
+[data.Config.reload]Reload over.
+[guiMgr.MainWd.<init>]Loading window...
+[guiMgr.panels.bgPanel.<init>]Loading timeline panels...
+[guiMgr.panels.bgPanel.<init>]Loading attributeEdit...
+[guiMgr.panels.bgPanel.<init>]Loading groupPnl...
+[guiMgr.panels.bgPanel.<init>]Loading trackOperPanel...
+[guiMgr.panels.bgPanel.<init>]Loading toolPanel...
+[guiMgr.panels.bgPanel.<init>]Loading label manager...
+[guiMgr.panels.bgPanel.<init>]Loading winBar...
+[guiMgr.panels.bgPanel.<init>]Loading infoBar...
+[guiMgr.panels.bgPanel.<init>]Loading editing panel...
+[guiMgr.script.scriptBgp.<init>]Loading script panels...
+[guiMgr.script.scriptBgp.<init>]Loading scene table...
+[guiMgr.script.scriptBgp.<init>]Loading scene attribute...
+[guiMgr.script.scriptBgp.<init>]Loading shot attribute...
+[guiMgr.script.scriptBgp.<init>]Loading shot table...
+[guiMgr.MainWd.<init>]Finish.
+[guiMgr.script.SceneTable.addScene]Add scene 未定义场景
+[data.GroupManager.newGroup]Add new group uid:-1 name:未定义场景
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.script.SceneTable.addScene]Add scene 第一个场景场景场景场景场景场景
+[data.GroupManager.newGroup]Add new group uid:0 name:第一个场景场景场景场景场景场景
+[guiMgr.script.SceneTable.addScene]Add scene Second
+[data.GroupManager.newGroup]Add new group uid:1 name:Second
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 1
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 1
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 2
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 2
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 3
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 3
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 4
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 4
+[guiMgr.script.ShotTable.insert]insert shot at 2
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:shot 2.5
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 5
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 5
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 6
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 6
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 7
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 7
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 8
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 8
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 9
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 9
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 10
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 10
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 11
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 11
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 12
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 12
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 13
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 13
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 14
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 14
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 15
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 15
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 16
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 16
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 17
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 17
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 18
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 18
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 19
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 19
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 20
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 20
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 21
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 21
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 22
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 22
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 23
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 23
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 24
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 24
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 25
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 25
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 26
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 26
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 27
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 27
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 28
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 28
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 29
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 29
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 30
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 30
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 31
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 31
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 32
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 32
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 33
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 33
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 34
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 34
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 35
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 35
+[guiMgr.script.ShotTable.addShot]Add new shot Shot 36
+[guiMgr.panels.EditingPnl.addElement]outdated method please call addScene
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:Shot 36
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1335
+[data.Config.set]Set mwd.height=1243
+[data.Config.set]Set mwd.x=101
+[data.Config.set]Set mwd.y=85
+[data.Config.set]Set editingPnl.color=0.22
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set infoBar.color=0.35
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set groupPnl.color=0.25
+[data.Config.set]Set attributeEdit.color=0.25
+[data.Config.set]Set sceneTable.color=0.25
+[data.Config.set]Set sceneAttri.color=0.25
+[data.Config.set]Set shotAttri.color=0.25
+[data.Config.set]Set shotTable.color=0.25
+[data.Config.set]Set trackOper.x=93
+[data.Config.set]Set trackOper.y=62
+[data.Config.set]Set toolPnl.x=543
+[data.Config.set]Set toolPnl.y=61
+[data.Config.set]Set labelCheck.x=732
+[data.Config.set]Set labelCheck.y=39
+[data.Config.set]Set groupPnl.x=749
+[data.Config.set]Set groupPnl.y=20
+[data.Config.set]Set attributeEdit.x=861
+[data.Config.set]Set attributeEdit.y=151
+[data.Config.set]Set trackLocationAdd=-220
+[data.Config.set]Set eleHeight=40
+[data.Config.set]Set groupview_addX=100
+[data.Config.set]Set groupview_addY=210
+[guiMgr.MainWd.windowClosing]Closing...

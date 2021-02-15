@@ -1,0 +1,39 @@
+[boot.Main.main]Launch.ID:1584533576123
+[data.Config.reload]Reload failed.
+[data.Config.get]Field:mwd.isMax undefine.
+[data.Config.get]Field:mwd.width undefine.
+[data.Config.get]Field:editingPnl.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[data.Config.get]Field:trackOper.x undefine.
+[guiMgr.panels.TrackOper.loadCfg]Read cfg failed.
+[data.Config.get]Field:editingPnl.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[data.Config.get]Field:toolPnl.x undefine.
+[guiMgr.panels.ToolPnl.loadCfg]Read cfg failed.
+[data.Config.get]Field:trackLocationAdd undefine.
+[guiMgr.panels.EditingPnl.<init>]Read cfg failed.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1000
+[data.Config.set]Set mwd.height=700
+[data.Config.set]Set mwd.x=10
+[data.Config.set]Set mwd.y=10
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set trackOper.x=10
+[data.Config.set]Set trackOper.y=10
+[data.Config.set]Set toolPnl.x=10
+[data.Config.set]Set toolPnl.y=60
+[data.Config.set]Set infoBar.color=0.25
+[data.Config.set]Set trackLocationAdd=0
+[data.Config.set]Set eleHeight=20
+[guiMgr.MainWd.windowClosing]Closing...

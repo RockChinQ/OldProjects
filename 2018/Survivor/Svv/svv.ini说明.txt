@@ -1,0 +1,42 @@
+#task=start@<startCondition0>[&<startConditionN>]#stop@<stopCondition0>[|<stopConditionN>]#oper@<operation0>[|<operationN>][&<operationN>]#pause@<stopCondition0>[|<stopConditionN>]#continue@<startCondition0>[&<startConditionN>]
+	#描述了任务内容、任务开始条件、任务接管线程停止条件
+	#每个部分必须按顺序写，以“#”分割每个部分
+	#对于start@<startCondition0>[&<startConditionN>]
+		#“@”之前为固定内容
+		#可存在多个开始条件（见层1“条件写法”），用“&”连接
+		#需每个条件均被判断为true才会开始执行任务
+	#对于stop@<stopCondition0>[|<stopConditionN>]
+		#“@”之前为固定内容
+		#可存在多个停止条件（见层1“条件写法”），用“|”连接
+		#任何条件被判断为true将停止任务接管线程的运行
+	#对于oper@<operation0>[|<operationN>][&<operationN>]
+		#“@”之前为固定内容
+		#可存在多个指令（见层1“指令写法”）
+		#并行和线性：程序按顺序执行每个用“&”分割的指令（组），若指令（组）中有被“|”分割的两个或多个指令，这些指令将同时执行
+	#对于pause与continue
+		#当前版本未支持
+		#pause和continue的条件分别与stop和continue写法相同
+	#条件写法
+		#通用写法：<item> <paramPointer>
+			#item见每种情况中的要求
+			#paras（见层0“paras”）中的第paramPointer个数据将作为验证所需参数
+		#对于start中的条件
+			#已支持的item：CCPS、DISK_INSERT
+			#CCPS
+				#参数：<param0> <param1>
+				#返回当前CPU运算速度是否大于<param0>并且小于<param1>
+			#DISK_INSERT
+				#参数：<param0>
+				#示例：ABCD
+				#遍历param0中罗列的大写，第i个字母为Ci，返回是否Ci盘存在且无保护标志文件且此次运行未被操作过
+		#对于stop中的条件
+			#
+	#指令写法
+#paras
+#test_i
+#test_j
+#speedTestPeriod
+#checkStartPeriod
+#checkStopPeriod
+#operingDiskCount
+#cyclepsTested

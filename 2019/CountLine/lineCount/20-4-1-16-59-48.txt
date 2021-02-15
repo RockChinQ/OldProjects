@@ -1,0 +1,8 @@
+K:\Prog\workspace\2019\CountLine
+Counting:K:\Prog\workspace\2019\CountLine\src ...
+Counting:K:\Prog\workspace\2019\CountLine\src\COUNTLINE ...
+      File Main.java 2305
+----------Summary 32ms-----------
+Line Count:-1
+Symbol Count:0
+Average:-2305 sym/line

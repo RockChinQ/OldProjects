@@ -1,0 +1,27 @@
+[boot.Main.main]Launch.ID:1584542139162
+[data.Config.reload]Reload over.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1000
+[data.Config.set]Set mwd.height=544
+[data.Config.set]Set mwd.x=512
+[data.Config.set]Set mwd.y=187
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set trackOper.x=485
+[data.Config.set]Set trackOper.y=148
+[data.Config.set]Set toolPnl.x=287
+[data.Config.set]Set toolPnl.y=69
+[data.Config.set]Set infoBar.color=0.25
+[data.Config.set]Set trackLocationAdd=-90
+[data.Config.set]Set eleHeight=30
+[guiMgr.MainWd.windowClosing]Closing...

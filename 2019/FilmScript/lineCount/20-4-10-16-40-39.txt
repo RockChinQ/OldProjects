@@ -1,0 +1,63 @@
+K:\Prog\workspace\2019\FilmScript
+Counting:K:\Prog\workspace\2019\FilmScript\src ...
+Counting:K:\Prog\workspace\2019\FilmScript\src\boot ...
+      File Main.java 5603
+Counting:K:\Prog\workspace\2019\FilmScript\src\COUNTLINE ...
+      File Main.java 2305
+Counting:K:\Prog\workspace\2019\FilmScript\src\data ...
+      File Config.java 2363
+      File FileData.java 6116
+      File FileRW.java 664
+      File GroupManager.java 2534
+      File MakeRes.java 1754
+      File resCode.java 1523
+      File FloatTipTimer.java 481
+      File IconDataBase.java 6132
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr ...
+      File DialogListner.java 943
+      File FloatPanel.java 5949
+      File MainWd.java 7153
+      File PnlColor.java 3500
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr\fields ...
+      File InputField.java 1410
+      File InputAreaField.java 1391
+      File ComboBoxField.java 1197
+      File Icon.java 1087
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr\panels ...
+      File AttributeEdit.java 5938
+      File bgPanel.java 3684
+      File colorBoard.java 5050
+      File EditingPnl.java 24924
+      File eleMenu.java 6079
+      File eleMouse.java 9075
+      File epKey.java 2428
+      File epMouse.java 9925
+      File GroupPnl.java 6424
+      File GroupTmln.java 2795
+      File InfoBar.java 4250
+      File LabelCheck.java 5961
+      File LinkManage.java 152
+      File TimeLine.java 4543
+      File toolMouse.java 5357
+      File ToolPnl.java 6228
+      File TrackOper.java 6868
+      File WinBar.java 2023
+      File MenuBar.java 1236
+      File FloatTip.java 1953
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr\script ...
+      File SceneTable.java 6368
+      File scriptBgp.java 1822
+      File sceneMouse.java 1817
+      File SceneAttri.java 2747
+      File ShotAttri.java 7060
+      File ShotTable.java 14826
+      File FixedPanel.java 2160
+      File Workflow.java 3082
+      File AllPnlBg.java 94
+Counting:K:\Prog\workspace\2019\FilmScript\src\log ...
+      File Log.java 1646
+      File Start.java 106
+----------Summary 79ms-----------
+Line Count:7334
+Symbol Count:206421
+Average:28 sym/line

@@ -1,0 +1,4 @@
+grade=ms
+name=相交与过点的关系
+condition=<线0>与<线1>相交于<点0>
+conclusion=<线0>过<点0>;<线1>过<点0>

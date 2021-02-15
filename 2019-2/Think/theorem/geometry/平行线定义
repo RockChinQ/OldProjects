@@ -1,0 +1,4 @@
+grade=ms
+name=平行线定义0
+condition=<线0>与<线1>交点个数等于0
+conclusion=<线0>平行于<线1>

@@ -1,0 +1,40 @@
+G:\Prog\workspace\2017\Thinker\Thinker
+Counting:G:\Prog\workspace\2017\Thinker\Thinker\src ...
+Counting:G:\Prog\workspace\2017\Thinker\Thinker\src\tp0 ...
+      File action0.java 439
+      File action1.java 876
+      File action2.java 5273
+      File action3.java 957
+      File action4.java 235
+      File draw2.java 2270
+      File drawer.java 11450
+      File editac.java 1301
+      File editpa.java 556
+      File file0.java 719
+      File getTime.java 736
+      File gui.java 1206
+      File keyli.java 789
+      File liaac.java 871
+      File main.java 1645
+      File mouse0.java 2386
+      File mouse1.java 1258
+      File mouse2.java 704
+      File mouseli.java 734
+      File mystack.java 462
+      File welcome.java 1944
+Counting:G:\Prog\workspace\2017\Thinker\Thinker\src\tp1 ...
+      File makeque.java 1830
+      File window0.java 948
+Counting:G:\Prog\workspace\2017\Thinker\Thinker\src\tp2 ...
+      File action0.java 1842
+      File file0.java 721
+      File gui.java 1206
+      File main.java 1436
+      File mouse0.java 1577
+      File window.java 1795
+Counting:G:\Prog\workspace\2017\Thinker\Thinker\src\COUNTLINE ...
+      File Main.java 2275
+----------Summary 4885ms-----------
+Line Count:1790
+Symbol Count:48166
+Average:28 sym/line

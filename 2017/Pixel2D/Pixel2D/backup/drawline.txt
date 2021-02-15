@@ -1,0 +1,51 @@
+
+	void drawLine(int x,int y,int endx,int endy,Color cl){
+		if(x<picture.length&&y<picture[0].length){
+			/*
+			if(x==endx)
+				endx++;
+			if(y==endy)
+				endy++;
+				*/
+			if(x<=endx&&y<=endy){         //左上到右下
+				int ty=0;
+				for(int a=0;((double)endx-(double)x)>=((double)endy-(double)y)&&a+x<endx;a++){                //x长
+					if(ty+y<endy){
+						if(((double)endx-(double)x)/((double)endy-(double)y)>0&&a%Math.round(((double)endx-(double)x)/((double)endy-(double)y))==0){//x长
+							ty++;
+						}
+					}
+					setGrid(a+x,ty+y,cl);
+				}
+				int tx=0;
+				for(int b=0;((double)endy-(double)y)>((double)endx-(double)x)&&b+y<endy;b++){          //y长
+					if(tx+x<endx){
+						if(((double)endy-(double)y)/((double)endx-(double)x)>0&&b%Math.round(((double)endy-(double)y)/((double)endx-(double)x))==0){
+							tx++;
+						}
+					}
+					setGrid(tx+x,b+y,cl);
+				}
+			}else if(x<endx&&y>endy){     //左下到右上
+				int ty=0;
+				for(int a=0;((double)endx-(double)x)>((double)y-(double)endy)&&a+x<endx;a++){            //x轴长
+					if(y-ty>endy){
+						if(((double)x-(double)endx)/((double)y-(double)endy)>0&&a%Math.round(((double)x-(double)endx)/((double)y-(double)endy))==0){
+							ty++;
+						}
+					}
+					setGrid(a+x,y-ty,cl);
+				}
+				int tx=0;
+				for(int b=0;((double)y-(double)endy)>=((double)endx-(double)x)&&y-b>endy;b++){            //y轴长
+					if(x+tx<endx){
+						if(((double)y-(double)endy)/((double)endx-(double)x)>0&&b%Math.round(((double)y-(double)endy)/((double)endx-(double)x))==0){
+							tx++;
+						}
+					}
+					setGrid(x+tx,y-b,cl);
+				}
+			}
+		}
+		this.repaint();
+	}

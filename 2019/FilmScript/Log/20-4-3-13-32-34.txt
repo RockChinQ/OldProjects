@@ -1,0 +1,78 @@
+[boot.Main.main]Launch.ID:1585891939102
+[data.Config.reload]Reload over.
+[data.Config.get]Field:shotTable.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[guiMgr.MainWd.<init>]Loading window...
+[data.Config.get]Field:shotTable.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[guiMgr.panels.bgPanel.<init>]Loading timeline panels...
+[guiMgr.panels.bgPanel.<init>]Loading attributeEdit...
+[guiMgr.panels.bgPanel.<init>]Loading groupPnl...
+[guiMgr.panels.bgPanel.<init>]Loading trackOperPanel...
+[guiMgr.panels.bgPanel.<init>]Loading toolPanel...
+[data.Config.get]Field:shotTable.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[guiMgr.panels.bgPanel.<init>]Loading label manager...
+[guiMgr.panels.bgPanel.<init>]Loading winBar...
+[guiMgr.panels.bgPanel.<init>]Loading infoBar...
+[guiMgr.panels.bgPanel.<init>]Loading editing panel...
+[data.Config.get]Field:shotTable.color undefine.
+[guiMgr.PnlColor.loadCfg]Load color cfg failed.
+[guiMgr.script.scriptBgp.<init>]Loading script panels...
+[guiMgr.script.scriptBgp.<init>]Loading scene table...
+[guiMgr.script.scriptBgp.<init>]Loading scene attribute...
+[guiMgr.script.scriptBgp.<init>]Loading shot attribute...
+[guiMgr.script.scriptBgp.<init>]Loading shot table...
+[guiMgr.MainWd.<init>]Finish.
+[data.GroupManager.newGroup]Add new group uid:-1 name:No Group
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test0
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test3
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test4
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test5
+[data.GroupManager.newGroup]Add new group uid:0 name:Group 1
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.script.SceneTable.addScene]Add scene 第一个场景场景场景场景场景场景
+[data.GroupManager.newGroup]Add new group uid:1 name:第一个场景场景场景场景场景场景
+[guiMgr.script.SceneTable.addScene]Add scene Second
+[data.GroupManager.newGroup]Add new group uid:2 name:Second
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1000
+[data.Config.set]Set mwd.height=700
+[data.Config.set]Set mwd.x=609
+[data.Config.set]Set mwd.y=276
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set infoBar.color=0.35
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set groupPnl.color=0.25
+[data.Config.set]Set attributeEdit.color=0.25
+[data.Config.set]Set sceneTable.color=0.25
+[data.Config.set]Set sceneAttri.color=0.25
+[data.Config.set]Set shotAttri.color=0.25
+[data.Config.set]Set shotTable.color=0.25
+[data.Config.set]Set trackOper.x=628
+[data.Config.set]Set trackOper.y=35
+[data.Config.set]Set toolPnl.x=735
+[data.Config.set]Set toolPnl.y=254
+[data.Config.set]Set labelCheck.x=200
+[data.Config.set]Set labelCheck.y=71
+[data.Config.set]Set groupPnl.x=1403
+[data.Config.set]Set groupPnl.y=374
+[data.Config.set]Set attributeEdit.x=149
+[data.Config.set]Set attributeEdit.y=426
+[data.Config.set]Set trackLocationAdd=-215
+[data.Config.set]Set eleHeight=45
+[data.Config.set]Set groupview_addX=50
+[data.Config.set]Set groupview_addY=175
+[guiMgr.MainWd.windowClosing]Closing...

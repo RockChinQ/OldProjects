@@ -1,0 +1,1 @@
+copy хннЯфТ╤╞фВ.lnk null

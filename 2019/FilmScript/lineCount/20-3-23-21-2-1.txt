@@ -1,0 +1,36 @@
+K:\Prog\workspace\2019\FilmScript
+Counting:K:\Prog\workspace\2019\FilmScript\src ...
+Counting:K:\Prog\workspace\2019\FilmScript\src\boot ...
+      File Main.java 2145
+Counting:K:\Prog\workspace\2019\FilmScript\src\COUNTLINE ...
+      File Main.java 2305
+Counting:K:\Prog\workspace\2019\FilmScript\src\data ...
+      File Config.java 2363
+      File FileData.java 78
+      File FileRW.java 664
+      File MakeRes.java 1754
+      File resCode.java 1523
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr ...
+      File DialogListner.java 943
+      File FloatPanel.java 5189
+      File MainWd.java 4404
+Counting:K:\Prog\workspace\2019\FilmScript\src\guiMgr\panels ...
+      File bgPanel.java 1944
+      File EditingPnl.java 17055
+      File eleMenu.java 2436
+      File eleMouse.java 8352
+      File epKey.java 899
+      File epMouse.java 7287
+      File InfoBar.java 2840
+      File LinkManage.java 152
+      File TimeLine.java 4347
+      File toolMouse.java 5059
+      File ToolPnl.java 6028
+      File TrackOper.java 5897
+      File PnlColor.java 1284
+Counting:K:\Prog\workspace\2019\FilmScript\src\log ...
+      File Log.java 1619
+----------Summary 49ms-----------
+Line Count:2843
+Symbol Count:84262
+Average:30 sym/line

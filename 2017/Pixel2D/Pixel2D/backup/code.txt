@@ -1,0 +1,88 @@
+void drawComponentString(int x,int y,String str,Color cl,int size,Component com,String charset){
+		char[] avchar=str.toCharArray();
+		for(int a=0;a<avchar.length;a++){
+			drawComponentChar(x+8*a*size,y,avchar[a],cl,size,com,charset);
+		}
+		this.repaint();
+	}
+	void drawComponentChar(int x,int y,char ch,Color cl,int size,Component com,String charset){
+		if(x>=panelWeight||y>=panelHeight)
+			return;
+		String[] chars=read(charset).split(";");
+		int len=chars.length;
+		for(int a=0;a<len;a++){
+			String[] ach=chars[a].split(":");
+			if(ch==ach[0].toCharArray()[0]){
+				char[] chcode=ach[1].toCharArray();
+				int now=0;
+				int lin=(int)Math.sqrt(chcode.length);
+				//字号
+				char[][] lgrc=new char[lin*size][lin*size];
+				int snow=0;                  //读源标记
+				for(int b=0;b<lin;b++){               //读源
+					for(int c=0;c<lin;c++){             //读源
+						for(int d=0;d<size;d++){
+							for(int e=0;e<size;e++){
+								lgrc[b*size+d][c*size+e]=chcode[snow];
+							}
+						}
+						snow++;
+					}
+				}
+				char[] code2=new char[lin*size*lin*size];
+				int codec=0;
+				for(int b=0;b<lin*size;b++){
+					for(int c=0;c<lin*size;c++){
+						code2[codec]=lgrc[b][c];
+						codec++;
+					}
+				}
+				//字号end
+				for(int b=0;b<lin*size;b++){
+					for(int c=0;c<lin*size;c++){
+						//System.out.println(chcode[now]);
+						if(code2[now]=='1'){
+							//System.out.println((c+x)+" "+(gridHeight*panelHeight));
+							if(c+x>=panelWeight){
+								continue;
+							}
+							if(c+x<(x+com.getX()+com.getWidth())&&b+y<(y+com.getY()+com.getHeight()))
+								component[c+x][b+y]=cl;
+						}
+						now++;
+					}
+				}
+				break;
+			}
+		}
+		this.repaint();
+	}
+	void addButton(JButton bt){
+		coms[comsc]=bt;
+		comsc++;
+		drawButton(bt);
+	}
+	void drawButton(JButton bt){
+		int w=bt.getWidth(),h=bt.getHeight();
+		int x=bt.getX(),y=bt.getY();
+		for(int a=0;a<w;a++){
+			for(int b=0;b<h;b++){
+				if(a==0||a==w-1||b==0||b==h-1){
+					if(a+y<panelWeight&&b+x<panelHeight){
+						component[a+y][b+x]=bt.getBackground();
+						//System.out.println(bt.getBackground().toString());
+					}
+				}
+			}
+		}
+		drawComponentString(x,y+bt.getHeight()-7*bt.getFont().getSize()-2,bt.getText(),bt.getBackground(),bt.getFont().getSize(),bt,cha.toString());
+		this.repaint();
+	}
+	void updateComponent(){
+		for(int a=0;a<panelWeight;a++){
+			for(int b=0;b<panelHeight;b++){
+				
+			}
+		}
+		this.repaint();
+	}

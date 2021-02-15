@@ -1,0 +1,1 @@
+int a=0;entry:out _0 123;exit;:

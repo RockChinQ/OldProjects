@@ -1,0 +1,40 @@
+[boot.Main.main]Launch.ID:1584528958243
+[data.Config.reload]Reload over.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateEleLayer]Update Elements Layer.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test0
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test1
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test3
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test4
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test5
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1135
+[data.Config.set]Set mwd.height=395
+[data.Config.set]Set mwd.x=682
+[data.Config.set]Set mwd.y=163
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set trackOper.x=519
+[data.Config.set]Set trackOper.y=70
+[data.Config.set]Set toolPnl.x=52
+[data.Config.set]Set toolPnl.y=18
+[data.Config.set]Set infoBar.color=0.25
+[data.Config.set]Set trackLocationAdd=-65
+[data.Config.set]Set eleHeight=20
+[guiMgr.MainWd.windowClosing]Closing...

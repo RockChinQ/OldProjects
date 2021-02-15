@@ -1,0 +1,40 @@
+K:\Prog\workspace\2019-2\VPManager
+Counting:K:\Prog\workspace\2019-2\VPManager\src ...
+Counting:K:\Prog\workspace\2019-2\VPManager\src\Boot ...
+      File CanvasPanel.java 6061
+      File CVControlPanel.java 3603
+      File EditorPanel.java 6588
+      File Element.java 715
+      File GUI.java 3789
+      File ImageFileFilter.java 541
+      File Main.java 872
+      File OperatePanel.java 2461
+      File RectPanel.java 384
+      File ScriptFileFilter.java 449
+      File ThumbPanel.java 2711
+      File ToolPanel.java 1997
+      File _canvasMouse.java 3993
+      File _dragMouse.java 1147
+      File _dragMouse1.java 1148
+      File _dragMouse2.java 1146
+      File _dragOrp.java 1143
+      File _operateAction.java 1941
+      File _thumbMouse.java 1309
+      File _toolAction.java 290
+Counting:K:\Prog\workspace\2019-2\VPManager\src\Classes ...
+      File Config.java 1414
+      File FileRW.java 667
+      File getTime.java 740
+      File MyButton.java 922
+      File MyFrame.java 1212
+      File MyLabel.java 877
+      File MyTextArea.java 706
+      File MyTextField.java 746
+Counting:K:\Prog\workspace\2019-2\VPManager\src\COUNTLINE ...
+      File Main.java 2305
+Counting:K:\Prog\workspace\2019-2\VPManager\src\OSCAPI ...
+      File PicUtils.java 1289
+----------Summary 47ms-----------
+Line Count:1705
+Symbol Count:50861
+Average:31 sym/line

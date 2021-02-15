@@ -1,0 +1,23 @@
+G:\Prog\workspace\2016\任务启动器\ConditionAndEvent
+Counting:G:\Prog\workspace\2016\任务启动器\ConditionAndEvent\src ...
+Counting:G:\Prog\workspace\2016\任务启动器\ConditionAndEvent\src\CAE ...
+      File addevent.java 9310
+      File check.java 5910
+      File dothing.java 2342
+      File draw.java 396
+      File draw2.java 2798
+      File f.java 247
+      File gui.java 577
+      File main.java 2253
+      File setting.java 2112
+      File spawnwindows.java 5805
+      File t1.java 121
+      File taskword.java 80
+      File test.java 228
+      File write.java 371
+Counting:G:\Prog\workspace\2016\任务启动器\ConditionAndEvent\src\COUNTLINE ...
+      File Main.java 2275
+----------Summary 28ms-----------
+Line Count:1149
+Symbol Count:32550
+Average:30 sym/line

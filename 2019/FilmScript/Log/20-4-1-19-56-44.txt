@@ -1,0 +1,63 @@
+[boot.Main.main]Launch.ID:1585742201836
+[data.Config.reload]Reload over.
+[guiMgr.MainWd.<init>]Loading window...
+[guiMgr.panels.bgPanel.<init>]Loading panel...
+[guiMgr.panels.bgPanel.<init>]Loading attributeEdit...
+[guiMgr.panels.bgPanel.<init>]Loading groupPnl...
+[guiMgr.panels.bgPanel.<init>]Loading trackOperPanel...
+[guiMgr.panels.bgPanel.<init>]Loading toolPanel...
+[guiMgr.panels.bgPanel.<init>]Loading label manager...
+[guiMgr.panels.bgPanel.<init>]Loading winBar...
+[guiMgr.panels.bgPanel.<init>]Loading infoBar...
+[guiMgr.panels.bgPanel.<init>]Loading editing panel...
+[data.GroupManager.newGroup]Add new group uid:-1 name:No Group
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test0
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test1
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test2
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test3
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test4
+[guiMgr.panels.EditingPnl.addElement]Add elements.
+[guiMgr.panels.EditingPnl.solveAllConflict]solvingConflict obj:test5
+[data.GroupManager.newGroup]Add new group uid:0 name:Group 1
+[data.GroupManager.newGroup]Add new group uid:1 name:1
+[data.GroupManager.newGroup]Add new group uid:2 name:2
+[data.GroupManager.newGroup]Add new group uid:3 name:3
+[data.GroupManager.newGroup]Add new group uid:4 name:4
+[data.GroupManager.newGroup]Add new group uid:5 name:5
+[data.GroupManager.newGroup]Add new group uid:6 name:6
+[data.GroupManager.newGroup]Add new group uid:7 name:7
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[guiMgr.panels.EditingPnl.updateElement]Update Elements.
+[data.Config.set]Set mwd.isMax=false
+[data.Config.set]Set mwd.width=1293
+[data.Config.set]Set mwd.height=606
+[data.Config.set]Set mwd.x=437
+[data.Config.set]Set mwd.y=645
+[data.Config.set]Set editingPnl.color=0.18
+[data.Config.set]Set toolPnl.color=0.25
+[data.Config.set]Set trackOper.color=0.25
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set infoBar.color=0.35
+[data.Config.set]Set labelCheck.color=0.25
+[data.Config.set]Set groupPnl.color=0.25
+[data.Config.set]Set attributeEdit.color=0.25
+[data.Config.set]Set trackOper.x=339
+[data.Config.set]Set trackOper.y=181
+[data.Config.set]Set toolPnl.x=565
+[data.Config.set]Set toolPnl.y=74
+[data.Config.set]Set labelCheck.x=1012
+[data.Config.set]Set labelCheck.y=118
+[data.Config.set]Set groupPnl.x=659
+[data.Config.set]Set groupPnl.y=68
+[data.Config.set]Set attributeEdit.x=1265
+[data.Config.set]Set attributeEdit.y=81
+[data.Config.set]Set trackLocationAdd=-215
+[data.Config.set]Set eleHeight=45
+[data.Config.set]Set groupview_addX=250
+[data.Config.set]Set groupview_addY=245
+[guiMgr.MainWd.windowClosing]Closing...
