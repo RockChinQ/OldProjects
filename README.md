@@ -41,7 +41,7 @@ Auto Shutdown 自动关机
 
 空项目
 
-## seatedit(为实现)
+## seatedit(未实现)
 
 计划的座位表编辑器
 
