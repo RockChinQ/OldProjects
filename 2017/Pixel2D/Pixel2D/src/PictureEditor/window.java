@@ -1,4 +1,4 @@
-ï»¿package PictureEditor;
+package PictureEditor;
 
 import java.awt.Color;
 
@@ -13,34 +13,34 @@ import javax.swing.JPanel;
 public class window {
 	gui g=new gui(600,600,0,0,false,"PictureEditor For Pixel2D",true,true,true);
 	JMenuBar jmb=new JMenuBar();
-	JMenu file=new JMenu("æ–‡ä»¶");
-	JMenuItem save=new JMenuItem("ä¿å­˜");
-	JMenuItem open=new JMenuItem("æ‰“å¼€");
-	JMenuItem exit=new JMenuItem("é€€å‡º");
+	JMenu file=new JMenu("ÎÄ¼ş");
+	JMenuItem save=new JMenuItem("±£´æ");
+	JMenuItem open=new JMenuItem("´ò¿ª");
+	JMenuItem exit=new JMenuItem("ÍË³ö");
 	
-	JMenu setting=new JMenu("è®¾ç½®");
+	JMenu setting=new JMenu("ÉèÖÃ");
 	
 	JPanel cp=new JPanel();
 
 	JButton point=new JButton(".");
-	JButton line=new JButton("â€”");
-	JButton circle=new JButton("â—‹");
-	JButton rect=new JButton("â–¡");
+	JButton line=new JButton("¡ª");
+	JButton circle=new JButton("¡ğ");
+	JButton rect=new JButton("¡õ");
 	JButton text=new JButton("A");
 	JButton get=new JButton("$");
-	JButton del=new JButton("Ã—");
+	JButton del=new JButton("¡Á");
 	JButton trans=new JButton(" ");
 	
 	JPanel op=new JPanel();
-	JButton color=new JButton("å‰æ™¯è‰²ï¼šâ–ˆ");
-	JButton bg=new JButton("èƒŒæ™¯è‰²ï¼šâ–ˆ");
-	JButton set_wh=new JButton("æ˜¾ç¤ºæ¯”ä¾‹");
+	JButton color=new JButton("Ç°¾°É«£º¨€");
+	JButton bg=new JButton("±³¾°É«£º¨€");
+	JButton set_wh=new JButton("ÏÔÊ¾±ÈÀı");
 	
-	JLabel message=new JLabel("<æ¶ˆæ¯>");
+	JLabel message=new JLabel("<ÏûÏ¢>");
 	
-	int pw=Integer.parseInt(javax.swing.JOptionPane.showInputDialog(null, "é•¿åº¦")),ph=Integer.parseInt(javax.swing.JOptionPane.showInputDialog(null, "é«˜åº¦"));
-	Pixel2D p2d=new Pixel2D(20,20,pw,ph,JColorChooser.showDialog(null, "é€‰å–èƒŒæ™¯é¢œè‰²", null),true,Color.gray,true,new mouse0());
-	window(){
+	int pw=Integer.parseInt(javax.swing.JOptionPane.showInputDialog(null, "³¤¶È")),ph=Integer.parseInt(javax.swing.JOptionPane.showInputDialog(null, "¸ß¶È"));
+	Pixel2D p2d=new Pixel2D(20,20,pw,ph,JColorChooser.showDialog(null, "Ñ¡È¡±³¾°ÑÕÉ«", null),true,Color.gray,true,new mouse0());
+	public window(){
 		g.setJMenuBar(jmb);
 		g.setLayout(null);
 		//g.setAlwaysOnTop(true);

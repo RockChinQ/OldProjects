@@ -10,7 +10,7 @@ import javax.swing.JWindow;
 
 public class window {
 	JFrame jf=new JFrame();
-	Pixel2D p2d=new Pixel2D(3,3,400,250,Color.white,false,Color.gray,true,null);
+	Pixel2D p2d=new Pixel2D(3,3,400,250,Color.white,Color.gray,true,null);
 	window(){
 		jf.setSize(1220, 800);
 		jf.setLocation(50,30);

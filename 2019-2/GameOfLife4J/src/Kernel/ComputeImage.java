@@ -22,7 +22,7 @@ public class ComputeImage extends TimerTask{
 				newGen[dat.pHeight-1][i]=dat.last[dat.pHeight-1][i];
 			}
 		}else if(dat.boundCptType=='0'||dat.boundCptType=='1') {
-			boolean label=dat.boundCptType=='0'?false:true;
+			boolean label= dat.boundCptType != '0';
 			for(int i=0;i<dat.pHeight;i++) {  //ÁÐ0 ºÍÁÐpWidth-1
 				newGen[i][0]=label;
 				newGen[i][dat.pWidth-1]=label;
@@ -43,7 +43,7 @@ public class ComputeImage extends TimerTask{
 							count++;
 					}
 				}
-				count-=((dat.last[i][j]==true)?1:0);
+				count-=((dat.last[i][j])?1:0);
 				if(dat.last[i][j]) {
 					if(count<=1||count>=4)
 						newGen[i][j]=false;
